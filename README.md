@@ -1,7 +1,3 @@
-Here’s how your resume can be transformed into the requested format:  
-
----
-
 👋 **Hi, I’m Ritik Verma**  
 Welcome to my GitHub! I’m a passionate Software Developer with experience in web development, data analysis, and creating innovative applications. 🚀  
 
