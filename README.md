@@ -1,61 +1,74 @@
-👋 **Hi, I’m Ritik Verma**  
-Welcome to my GitHub! I’m a passionate Software Developer with experience in web development, data analysis, and creating innovative applications. 🚀  
+👋 Hi, I’m Ritik Verma
+Welcome to my GitHub! I’m a passionate Python Backend Developer with experience in building scalable systems, REST APIs, and AI-powered applications. 🚀
 
-### 🌟 **About Me**  
-🎓 **Education**:  
-- **Master of Computer Science (MCA)**: 7.7 CGPA, RGPV Bhopal (2022-2024)  
-- **Post Graduate Diploma in Computer Applications**: 6.6 CGPA, MCU Bhopal (2020-2022)  
-- **Bachelor of Science (BSc)**: 6.0 CGPA, BU Bhopal (2017-2020)  
+🌟 About Me
 
-🌐 **Passion**: Building scalable applications and creating engaging user experiences.  
-📍 Based in Indore, aspiring for global opportunities.  
+🎓 Education:
 
----
+Master of Computer Applications (MCA): 7.7 CGPA, RGPV Bhopal (2022-2024)
 
-### 🚀 **My Technical Toolbox**  
+Post Graduate Diploma in Computer Applications (PGDCA): 6.6 CGPA, MCU Bhopal (2020-2022)
 
-#### **Languages & Frameworks**  
-- Python  
-- HTML5 & CSS3  
-- Bootstrap & Django  
+Bachelor of Science (BSc) in Mathematics: 6.0 CGPA, BU Bhopal (2017-2020)
 
-#### **Tools & Platforms**  
-- 🛠 Linux, Git  
-- 📂 MySQL  
-- 📊 Pandas, NumPy, Matplotlib  
+🌐 Passion: Creating innovative backend solutions, integrating AI, and optimizing system performance.
+📍 Based in Indore, open to remote and global opportunities.
 
-#### **Specialized Skills**  
-- 🔍 Web Scraping  
-- 📈 Data Visualization & Analysis  
+🚀 My Technical Toolbox
+Languages & Frameworks
 
----
+Python
 
-### 🌟 **Highlights of My Work**  
+FastAPI, Django, Flask
 
-#### 🛠 **CSV Analysis Web Application**  
-Built a robust Django-based app for CSV analysis, integrating advanced data manipulation tools and interactive visualizations.  
+HTML5, CSS3, Bootstrap
 
-#### 🌐 **ICAI Website Clone**  
-Created a seamless replica of the ICAI website using HTML and CSS, focusing on professional design and usability.  
+Tools & Platforms
 
-#### 🛒 **E-commerce Website**  
-Developed a user-friendly e-commerce platform with intuitive navigation and secure checkout processes.  
+🛠 Docker, Git, Linux, Postman
 
----
+☁️ AWS (EC2, DynamoDB), GCP
 
-### 🏅 **Certifications**  
-🎓 Python Programming | Udemy  
-📊 Exploratory Data Analysis with Pandas | Coursera  
+📂 PostgreSQL, MySQL, NoSQL
 
----
+Specialized Skills
 
-### 💡 **What Drives Me?**  
-I’m passionate about solving real-world problems, enhancing user experiences, and contributing to innovative solutions. Let’s create something amazing together! 🌱  
+🔗 REST API Development
 
-📫 **Connect with Me**  
-✉️ [gritikverma331@gmail.com](mailto:gritikverma331@gmail.com)  
-🌐 [LinkedIn](https://www.linkedin.com/in/ritik-verma-652b9228b/)  
-🐙 [GitHub](https://github.com/R-itik-verma)  
+🤖 AI/LLM Integration (LangChain, OpenAI APIs, RAG Pipelines)
 
-⭐ **Fun Fact**: "I’m always eager to learn and embrace new challenges!"  
+🔍 Web Scraping & Automation
 
+📊 Data Engineering & ETL
+
+🌟 Highlights of My Work
+📄 PDFing.ai – AI-Powered Document Parsing
+
+Developed a FastAPI-based backend with LLM integration, OCR, embeddings, and ChromaDB to extract structured data from unstructured PDFs.
+
+🍴 EasyBite – Restaurant Management API
+
+Built a DynamoDB-powered backend for menu handling, orders, and JWT-based authentication using FastAPI.
+
+🔍 OSINT Automation APIs
+
+Designed scalable microservices with async scraping and proxy management for large-scale open-source intelligence.
+
+🏅 Certifications & Awards
+
+🏆 AI Innovation Award (₹25,000 Prize) – For presenting an AI-powered document intelligence system (foundation of PDFing.ai).
+🎓 Python Programming | Udemy
+📊 Exploratory Data Analysis with Pandas | Coursera
+
+💡 What Drives Me?
+
+I’m passionate about solving real-world problems with backend engineering and AI integration. My goal is to build systems that are scalable, intelligent, and impactful. 🌱
+
+📫 Connect with Me
+✉️ gritikverma331@gmail.com
+
+🌐 LinkedIn
+
+🐙 GitHub
+
+⭐ Fun Fact: “I love blending backend development with AI to create future-ready solutions.”
