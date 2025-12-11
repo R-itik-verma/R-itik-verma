@@ -8,7 +8,7 @@
 
 ## About Me
 
-I’m a **Python Developer** with **2+ years of experience** building reliable and scalable systems. I specialize in **microservices, backend APIs, AI-powered applications, and automation workflows**.  
+I’m a **Python Developer** with **3+ years of experience** building reliable and scalable systems. I specialize in **microservices, backend APIs, AI-powered applications, and automation workflows**.  
 I enjoy solving complex technical challenges and quickly adopting new technologies to deliver high-quality, impactful solutions.
 
 ---
