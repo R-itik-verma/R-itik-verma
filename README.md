@@ -8,7 +8,7 @@
 
 ## About Me
 
-I’m a **Python Developer** with **3+ years of experience** building reliable and scalable systems. I specialize in **microservices, backend APIs, AI-powered applications, and automation workflows**.  
+I’m a **Python Developer** with **2+ years of experience** building reliable and scalable systems. I specialize in **microservices, backend APIs, AI-powered applications, and automation workflows**.  
 I enjoy solving complex technical challenges and quickly adopting new technologies to deliver high-quality, impactful solutions.
 
 ---
@@ -24,7 +24,7 @@ I enjoy solving complex technical challenges and quickly adopting new technologi
 
 ## 💼 Professional Experience
 
-### **Software Engineer** – Vibenox Private Limited, Noida, India (Jul 2024 – May 2025)
+### **Software Engineer** – Vibenox Private Limited, Noida, India (Jul 2024 – NOV 2025)
 **PDFing.ai – AI-Powered Document Parsing Platform**
 - Built RESTful APIs using **FastAPI** for extracting structured data from unstructured PDFs.
 - Integrated **OpenAI LLM APIs via LangChain** for intelligent table, form, and key information extraction.
